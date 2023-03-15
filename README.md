@@ -5,7 +5,5 @@ Hey, im 17 years old Batch Developer who dreams of creating Minecraft Copy at so
 
 Gem Miner 2 is a game about Mining Gems using Miners, that you buy along the way, You can Rebirth to gain more and more boost, and Sacrifice all your items that you obtained for a Special Sacrifice Miner or hunt down all Achievements and more! The game is made for Windows 10 or later and does not support Windows 7. Currently Newest Version is Gem Miner 2 v0.9.0
   
-### _How to Download, Installation process and More!_
- - **Download Latest Release:** **[gemminer2_latest.zip](https://github.com/FakeFizty/get-download/blob/main/Gem%20Miner%202%20v0.9.zip?raw=true)**
-
-It is recommended to...**[read more](https://github.com/FakeFizty/Gem-Miner-2)**
+### _Download Link, Installation process and More!_
+ - **Download Page:** **[Gem Miner 2](https://github.com/FakeFizty/Gem-Miner-2)**
